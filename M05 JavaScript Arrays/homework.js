@@ -105,7 +105,7 @@ function multiplicarArgumentos() {
 
    if (arguments.length === 0) {
    return 0; }    
-else if ( arguments.length === 1) {
+else if ( arguments.length === 1) {n
  return arguments[0];}
 else {
 var multiFinal = 1;
